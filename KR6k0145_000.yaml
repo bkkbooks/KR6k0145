@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0145/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律含注戒本疏科
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X39/X39n0713.xml
+    old_id: X39n0713
+hash: sha256:9d9a975e60d629e78d76a97b1b517851c06e63ed65245a895aa589eace80abd2

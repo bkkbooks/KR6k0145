@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR6k0145/X/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: page-break, offset: 0, content: '', id: KR6k0145_X_000-0590a, ed: X, 'n': 0590a, source_xml_id: X39.0713.0590a}
+  - {type: line-break, offset: 0, content: '', id: KR6k0145_X_000-0590a01, ed: X, 'n': 0590a01}
+  - {type: line-break, offset: 0, content: '', id: KR6k0145_X_000-0590a02, ed: X, 'n': 0590a02}
+  - {type: punctuation, offset: 0, content: 'N', id: KR6k0145_X_000-bkkpn1}
+  - {type: punctuation, offset: 0, content: o, id: KR6k0145_X_000-bkkpn2}
+  - {type: punctuation, offset: 0, content: ., id: KR6k0145_X_000-bkkpn3}
+  - {type: punctuation, offset: 0, content: '7', id: KR6k0145_X_000-bkkpn4}
+  - {type: punctuation, offset: 0, content: '1', id: KR6k0145_X_000-bkkpn5}
+  - {type: punctuation, offset: 0, content: '3', id: KR6k0145_X_000-bkkpn6}
+  - {type: line-break, offset: 0, content: '', id: KR6k0145_X_000-0590a03, ed: X, 'n': 0590a03}
+  - {type: line-break, offset: 0, content: '', id: KR6k0145_X_000-0195a01, ed: R062, 'n': 0195a01}
+  - {type: variant, offset: 1248, length: 1, content: 初, 卍續: 二}
+  - {type: variant, offset: 1857, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2399, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 2977, length: 1, content: 已, 卍續: 巳}
+  - {type: variant, offset: 3114, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 3119, length: 1, content: 己, 卍續: 巳}
+  - {type: variant, offset: 3571, length: 1, content: 已, 卍續: 巳}
+  body: []
+  back: []
+hash: sha256:3cba1b539e02386add4bbc898c5e33bebd43f303432af2631b09ec1321c769df

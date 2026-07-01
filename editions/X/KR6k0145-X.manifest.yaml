@@ -1,0 +1,122 @@
+canonical_identifier: bkk:krp/KR6k0145/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0145/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 四分律含注戒本疏科
+  identifiers:
+    krp: KR6k0145
+    cbeta: X39n0713
+    cbeta_old_id: X39n0713
+    authorityid: CA0002793
+    json_key: X0713
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X39/X39n0713.xml
+    old_id: X39n0713
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0145_000-X.yaml, hash: 'sha256:9d9a975e60d629e78d76a97b1b517851c06e63ed65245a895aa589eace80abd2'}
+  - {seq: 2, filename: KR6k0145_002-X.yaml, hash: 'sha256:9af71c3a3289921c51ef7d7baa2b51d50cfe326b7cbaeb3b278c62472b3d0dd8'}
+  - {seq: 3, filename: KR6k0145_003-X.yaml, hash: 'sha256:1d2a18a4252f49d66a5f8bc06878fed2b39a9f9f670425a5a836496ac68ce67b'}
+  - {seq: 4, filename: KR6k0145_004-X.yaml, hash: 'sha256:1b7cfb7f725178967e5b41e22a65315d7721201d1d3d8abb7df599ede7a0a99c'}
+  - {seq: 5, filename: KR6k0145_005-X.yaml, hash: 'sha256:b180d871a36d49e7b40a5a660719bd55f20b6ed306bc1c319448c45b797eec02'}
+  - {seq: 6, filename: KR6k0145_006-X.yaml, hash: 'sha256:6e1507a40c6b929c382721369017d2c8bb8d3ab783e7aa0f840219c23fa691f5'}
+  - {seq: 7, filename: KR6k0145_007-X.yaml, hash: 'sha256:2245b2b9eccddb42edb9c3f221c05f66b3fbf0bff550c85d41ad54c3ce4e4e44'}
+  - {seq: 8, filename: KR6k0145_008-X.yaml, hash: 'sha256:95a43a40e3bd103f5ca882b66e8ed6a24ad53630aa3d753af17be26d0347e22b'}
+  - {seq: 9, filename: KR6k0145_009-X.yaml, hash: 'sha256:98e4eb0f08504eee37ae1e254f8fac5c12b65a5bf786e3387f8d81851234dc6b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0145_000-X.markers.yaml, hash: 'sha256:3cba1b539e02386add4bbc898c5e33bebd43f303432af2631b09ec1321c769df'}
+  - {seq: 2, role: markers, filename: assets/KR6k0145_002-X.markers.yaml, hash: 'sha256:d7ae6b9b6d07af18299b94542ea866c0409e1dfb339536d3bc8622b8ce5fc62d'}
+  - {seq: 3, role: markers, filename: assets/KR6k0145_003-X.markers.yaml, hash: 'sha256:eb3fc72c9107f447c1b77bdb6ce078ca48d0d8bb4c71900e6fdadd632978f432'}
+  - {seq: 4, role: markers, filename: assets/KR6k0145_004-X.markers.yaml, hash: 'sha256:c948d4a1be89700985292e08ea1c74a1f98a8dab3422984c396c2307603543d3'}
+  - {seq: 5, role: markers, filename: assets/KR6k0145_005-X.markers.yaml, hash: 'sha256:0b58791340e4575f84a12931b60cfab854df459b70d56cf2e18446001baba84b'}
+  - {seq: 6, role: markers, filename: assets/KR6k0145_006-X.markers.yaml, hash: 'sha256:a1afd99486244a4028ca4f0a4ba44a7b1bb8f99399e1b8385d90270436e7b8ec'}
+  - {seq: 7, role: markers, filename: assets/KR6k0145_007-X.markers.yaml, hash: 'sha256:2dd7522cafbe4728ebdb541a1a0332edea6a2c66580cf886884a7215c76c0f02'}
+  - {seq: 8, role: markers, filename: assets/KR6k0145_008-X.markers.yaml, hash: 'sha256:b5d2e4ab1f0bfc354c8ed4d586a1818e6ff7fe0dd45e7a8ebcb7399e3854ec6b'}
+  - {seq: 9, role: markers, filename: assets/KR6k0145_009-X.markers.yaml, hash: 'sha256:51eeb6c416246283cd1f91c78914dbeedf257437562f0ceb9fdfd64c4fb5cca3'}
+table_of_contents:
+- ref:
+    seq: 2
+    marker_id: KR6k0145_X_1a-juan-start
+    span:
+    - body
+    - 0
+    - 3511
+  label: 釋四分律含注戒本疏科卷一之上
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0145_X_1b-juan-start
+    span:
+    - body
+    - 0
+    - 3629
+  label: 釋四分律含注戒本疏科卷一之下
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0145_X_2a-juan-start
+    span:
+    - body
+    - 0
+    - 4121
+  label: 釋四分律含注戒本疏科卷二之上
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0145_X_2b-juan-start
+    span:
+    - body
+    - 0
+    - 3750
+  label: 釋四分律含注戒本疏科卷二之下
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0145_X_3a-juan-start
+    span:
+    - body
+    - 0
+    - 4271
+  label: 釋四分律含注戒本疏科卷三之上
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6k0145_X_3b-juan-start
+    span:
+    - body
+    - 0
+    - 4375
+  label: 釋四分律含注戒本疏科卷三之下
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6k0145_X_4a-juan-start
+    span:
+    - body
+    - 0
+    - 4116
+  label: 釋四分律含注戒本疏科卷四之上
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6k0145_X_4b-juan-start
+    span:
+    - body
+    - 0
+    - 3693
+  label: 釋四分律含注戒本疏科卷四之下
+  type: juan
+  level: 1
+hash: sha256:0697f891ff1a721ba98576366b580660494f42132e465595d89b22e9cab0231c
